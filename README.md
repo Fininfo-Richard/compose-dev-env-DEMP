@@ -3,6 +3,9 @@ Example used to try a Compose application with Docker Dev Environments.
 
 This example is based on the `nginx-golang-mysql` sample of [`awesome-compose` repository](https://github.com/docker/awesome-compose/).
 
+## Compose Dev Env Documentation
+[Official Docker Documentation]([https://github.com/docker/awesome-compose/](https://docs.docker.com/desktop/dev-environments/create-compose-dev-env/)).
+
 ## Compose sample application
 ### Go server with an Nginx proxy and a MariaDB database
 
